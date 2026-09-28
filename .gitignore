@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Enunciado de ArrowFin: no se publica
+Technical_Assessment_Machine_Learning_Engineer.docx
